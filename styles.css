@@ -1,0 +1,28 @@
+.container {
+    margin-bottom:1rem;
+    margin-left: 5%;
+ }
+
+.container-js-div-examined {
+    margin-bottom:1rem;
+    margin-left: 5%;
+ }
+
+.container-js-div-search {
+    margin-bottom:1rem;
+    margin-left: 5%;
+    padding-top:2rem;
+ }
+
+.container-js-div-sort {
+    margin-bottom:1rem; 
+    margin-left: 5%;
+    padding-top:2rem;
+ }
+
+.form-control {
+    display:inline;
+    width:25%;
+ }
+
+ 
